@@ -33,7 +33,7 @@ p { color: A8D8FF;
 		background-position: fixed;
 		background-repeat: no-repeat;
 		width:fixed;
-		color: white;
+		color: black;
 		cursor: url('images/cursorjpg.jpg'), auto;
 		
 		
@@ -41,7 +41,7 @@ p { color: A8D8FF;
 	
 .daramolabody {  
 		background: url("images/7vMmx.jpg");
-		background-size:290%;
+		background-size:300%;
 		height:fixed;
 		background-position:fixed;
 		background-repeat: no-repeat;
@@ -54,10 +54,12 @@ p { color: A8D8FF;
 
 	ul {
     list-style-type: none;
-    margin: o;
+    margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: none;
+    background-color: black;
+	width:45%;
+	
 }
 
 li {
